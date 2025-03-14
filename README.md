@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Gaurav5189
-- 👀 I’m interested in Web development and linux
-- 🌱 I’m currently learning Backend development
+- 👋 Hi, I’m Gaurav S.
+- 👀 I’m interested in full stack Web development and linux
+- 🌱 I’m currently learning Backend development (Django framework)
 - 💞️ I’m looking to collaborate on Github!!
 - 📫 How to reach me ...
 - 😄 Pronouns: ... Just Gaurav
