@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Gaurav S.
-- 👀 I’m interested in full stack Web development and linux
+- 👀 I’m interested in full stack Web development, linux and n8n workflow automation 
 - 🌱 I’m currently learning Backend development (Django framework)
 - 💞️ I’m looking to collaborate on Github!!
-- 📫 How to reach me ...
+- 📫 How to reach me ... https://www.linkedin.com/in/gaurav-s-4b36b624b
 - 😄 Pronouns: ... Just Gaurav
 - ⚡ Fun fact: ... I just love messing around with codes, but sometimes its just a waste of time 😑.
 
