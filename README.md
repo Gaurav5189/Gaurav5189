@@ -7,7 +7,7 @@ Gaurav = {
     "backend" : ["Python", "FastAPI", "Django", "Flask", "PostgreSQL"],
     "frontend": ["React", "Three.js", "JavaScript", "CSS3"],
     "devops"  : ["Docker", "GitHub Actions", "Linux", "OWASP Security"],
-    "motto"   : "Clean code, secure systems, zero downtime."
+    "I prefer DRY KISS (Principles: DRY -> don't repeat yourself, KISS -> keep it simple, stupid)"
 }
 ```
 
